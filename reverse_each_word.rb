@@ -7,7 +7,7 @@ def reverse_each_word(sentence)
 end
   array.join
 end
-
+end
 
 # make string into an array
 # use each/collect
