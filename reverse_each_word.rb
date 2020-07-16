@@ -1,5 +1,4 @@
 
-
 def reverse_each_word(sentence)
   sentence_split_array = sentence.split
   reversed_word_array = []
@@ -8,7 +7,3 @@ def reverse_each_word(sentence)
 end
   reversed_word_array.join(" ")
 end
-
-# make string into an array
-# use each/collect
-# reverse
